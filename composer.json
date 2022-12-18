@@ -1,0 +1,17 @@
+{
+    "name": "review-app/review-app",
+    "description": "review app written in php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "ReviewApp\\ReviewApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anguzuDaniel",
+            "email": "102733205+anguzuDaniel@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
